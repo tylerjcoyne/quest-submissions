@@ -1,4 +1,4 @@
-# CHAPTER 1 // DAY 1
+# CHAPTER 1 // DAY 2
 
 Name: Tyler Coyne  
 Discord Handle: tcoyne#4231
@@ -13,4 +13,4 @@ Discord Handle: tcoyne#4231
 
 **(2) In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?**
 
-- 
+- It sounds to me like these are useful principles because they strike at the core of every frustrating aspect of programming that I've ever experienced. I've been hacked, struggled to onboard from one language to another, not known how to read code, and been frustrated by confusing error messages that I couldn't resolve. The pillars are clearly striving to kickstart a new "norm" via the Cadence language, and since FLOW will one day be fully decentralized, it's also very important that everyone contributing to the ecosystem is on the same page, because there can be no central entity overseeing the process of language development.
