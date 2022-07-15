@@ -23,6 +23,14 @@ Functionally, you _could_ perform the entire transaction from within the prepare
 
 --**ii. A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber**
 
+<img width="1508" alt="Screen Shot 2022-07-15 at 12 56 24 AM" src="https://user-images.githubusercontent.com/92488787/179179076-3dc580b0-74eb-44d8-9e12-147aa3eb22ae.png">
+
 -**b. Add a script that reads myNumber from the contract****
 
+<img width="1512" alt="Screen Shot 2022-07-15 at 12 57 17 AM" src="https://user-images.githubusercontent.com/92488787/179179223-6345d0c9-ab7d-42af-afb4-0d282e6fd7c1.png">
+
 -**c. Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.**
+
+<img width="1512" alt="Screen Shot 2022-07-15 at 1 00 16 AM" src="https://user-images.githubusercontent.com/92488787/179179854-df61ec6e-2b6b-45ed-99f7-4fdff1751ac0.png">
+
+<img width="1512" alt="Screen Shot 2022-07-15 at 1 00 29 AM" src="https://user-images.githubusercontent.com/92488787/179179874-10cc7e57-6ccd-4fd2-97a7-9ceb8d46c0c3.png">
