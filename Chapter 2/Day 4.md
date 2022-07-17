@@ -4,7 +4,9 @@ Name: Tyler Coyne
 Discord Handle: tcoyne#4231
 
 **1. Deploy a new contract that has a Struct of your choosing inside of it (must be different than Profile).**
+
 **2. Create a dictionary or array that contains the Struct you defined.**
+
 **3. Create a function to add to that array/dictionary.**
 
 <img width="1506" alt="Screen Shot 2022-07-17 at 2 53 26 PM" src="https://user-images.githubusercontent.com/92488787/179426197-2562e670-0f39-42fb-8da4-5d14b970a48e.png">
