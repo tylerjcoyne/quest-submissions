@@ -9,6 +9,8 @@ Discord Handle: tcoyne#4231
 
 **3. Create a function to add to that array/dictionary.**
 
+(First 3 questions are all included in the below screenshot)
+
 <img width="1506" alt="Screen Shot 2022-07-17 at 2 53 26 PM" src="https://user-images.githubusercontent.com/92488787/179426197-2562e670-0f39-42fb-8da4-5d14b970a48e.png">
 
 **4. Add a transaction to call that function in step 3.**
