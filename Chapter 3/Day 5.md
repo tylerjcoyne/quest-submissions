@@ -5,9 +5,9 @@ Discord Handle: tcoyne#4231
 
 **1. For each variable (a, b, c, and d), tell me in which areas they can be read (read scope) and which areas they can be modified (write scope).**
 
-- Var A
-**Read Scope**:
-**Write Scope**:
+- Var A <br>
+**Read Scope**:  <br>
+**Write Scope**:  <br>
 
 - Var B
 **Read Scope**:
