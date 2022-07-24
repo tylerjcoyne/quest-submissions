@@ -9,25 +9,25 @@ Discord Handle: tcoyne#4231
 **Read Scope**:  <br>
 **Write Scope**:  <br>
 
-- Var B
-**Read Scope**:
-**Write Scope**:
+- Var B <br>
+**Read Scope**:  <br>
+**Write Scope**:  <br>
 
-- Var C
-**Read Scope**:
-**Write Scope**:
+- Var C <br>
+**Read Scope**:  <br>
+**Write Scope**:  <br>
 
-- Var D
-**Read Scope**:
-**Write Scope**:
+- Var D <br>
+**Read Scope**:  <br>
+**Write Scope**:  <br>
 
 **2. For each function (publicFunc, contractFunc, and privateFunc), simply tell me where they can be called.**
 
-- publicFunc
-**Can be called from: **
+- publicFunc <br>
+**Can be called from: ** <br>
 
-- contractFunc
-**Can be called from: **
+- contractFunc <br>
+**Can be called from: ** <br>
 
-- privateFunc
-**Can be called from: **
+- privateFunc <br>
+**Can be called from: ** <br>
