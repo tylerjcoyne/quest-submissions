@@ -5,11 +5,11 @@ Discord Handle: tcoyne#4231
 
 **1. Define your own contract that stores a dictionary of resources. Add a function to get a reference to one of the resources in the dictionary.**
 
-<img width="1512" alt="Screen Shot 2022-07-24 at 2 55 51 PM" src="https://user-images.githubusercontent.com/92488787/180667360-227aa307-c267-4b06-b8f1-1412574b75de.png">
+<img width="1512" alt="Screen Shot 2022-07-24 at 3 02 21 PM" src="https://user-images.githubusercontent.com/92488787/180667623-e7a2af18-5dee-4e61-bdbf-01daedc61d37.png">
 
 **2. Create a script that reads information from that resource using the reference from the function you defined in part 1.**
 
-
+<img width="1512" alt="Screen Shot 2022-07-24 at 3 04 04 PM" src="https://user-images.githubusercontent.com/92488787/180667624-34260ce6-07f3-44e9-9c70-df835390f4eb.png">
 
 **3. Explain, in your own words, why references can be useful in Cadence.**
 
