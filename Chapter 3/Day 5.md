@@ -24,10 +24,10 @@ Discord Handle: tcoyne#4231
 **2. For each function (publicFunc, contractFunc, and privateFunc), simply tell me where they can be called.**
 
 - publicFunc <br>
-**Can be called from: ** <br>
+**Can be called from: **  <br>
 
 - contractFunc <br>
-**Can be called from: ** <br>
+**Can be called from: **  <br>
 
 - privateFunc <br>
-**Can be called from: ** <br>
+**Can be called from: **  <br>
