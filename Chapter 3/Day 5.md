@@ -7,7 +7,7 @@ Discord Handle: tcoyne#4231
 
 - Var A <br>
 **Read Scope**: Areas 1, 2, 3 and 4  <br>
-**Write Scope**: Areas 1, 2, 3 and 4 <br>
+**Write Scope**: Areas 1, 2, and 3 <br>
 
 - Var B <br>
 **Read Scope**: Areas 1, 2, 3 and 4 <br>
