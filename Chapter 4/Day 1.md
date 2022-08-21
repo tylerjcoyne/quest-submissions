@@ -29,4 +29,8 @@ To my point above, an account's /storage/ path is private to the account-owner, 
 
 **i. A transaction that first saves the resource to account storage, then loads it out of account storage, logs a field inside the resource, and destroys it.**
 
+<img width="1512" alt="Screen Shot 2022-08-21 at 12 11 51 PM" src="https://user-images.githubusercontent.com/92488787/185807135-9b1a3947-1180-457c-84b2-9276fcaa45b3.png">
+
 **ii. A transaction that first saves the resource to account storage, then borrows a reference to it, and logs a field inside the resource.**
+
+<img width="1512" alt="Screen Shot 2022-08-21 at 12 14 07 PM" src="https://user-images.githubusercontent.com/92488787/185807208-8400e0eb-27c7-4db8-9a48-e56a5ef403e3.png">
