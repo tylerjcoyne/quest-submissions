@@ -22,4 +22,4 @@ _Edit: After Day 4 I realize that there's probably better ways to do that, since
 
 **ii. Idea #2: If we want to read information about our NFTs inside our Collection, right now we have to take it out of the Collection to do so. Is this good?**
 
-No, this is not ideal - especially if we destroy the resource at the end of the code! A fix here would be to use a **capability** reference in-place of the resource itself. This way we can still access public information about the NFT, without involving any risk of loss.
+No, this is not ideal - especially if we destroy the resource at the end of the code! A fix here would be to use a **reference** in-place of the resource itself. This way we can still access public information about the NFT, without involving any risk of loss.
