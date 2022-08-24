@@ -16,7 +16,7 @@ If you have nested resources in your code, you HAVE to `destroy` any instances o
 
 **i. Idea #1: Do we really want everyone to be able to mint an NFT? 🤔.**
 
-In most cases, probably not! There are some conditions we should apply to this - for example, in the case of an Allowlist-gated Pre-sale, we would want to validate that the minter **is** actually on our Allowlist before allowing them to mint. To do this, we could create a priv Array in our contract in-advance that contains all of the Accounts which we're permitting to mint. The createNFT() function's definition would then include a check to make sure that the minter's Account exists within this Array before allowing the function to be called. If the account address **wasn't** on the list, it would throw an error.
+In many cases, probably not! For example, in the case of an Allowlist-gated Pre-sale, we would want to validate that the minter **is** actually on our Allowlist before allowing them to mint. To do this, we could create a priv Array in our contract in-advance that contains all of the Accounts which we're permitting to mint. The createNFT() function's definition would then include a check to make sure that the minter's Account exists within this Array before allowing the function to be called. If the account address **wasn't** on the list, it would throw an error.
 
 **ii. Idea #2: If we want to read information about our NFTs inside our Collection, right now we have to take it out of the Collection to do so. Is this good?**
 
