@@ -7,10 +7,8 @@ Discord Handle: tcoyne#4231
 
 **Take our NFT contract so far and add comments to every single resource or function explaining what it's doing in your own words. Something like this:**
 
-![Screen Shot 2022-08-24 at 4 25 53 PM](https://user-images.githubusercontent.com/92488787/186540847-20d84e04-a844-4142-9e8e-5da76147f2db.png)
+![Screen Shot 2022-08-24 at 4 28 27 PM](https://user-images.githubusercontent.com/92488787/186541012-07793633-f1a6-4130-8617-3e27391ef696.png)
 
-![Screen Shot 2022-08-24 at 4 26 11 PM](https://user-images.githubusercontent.com/92488787/186540857-4e3140ed-7a1b-45d3-9b03-c93d1be9c6bf.png)
+![Screen Shot 2022-08-24 at 4 28 36 PM](https://user-images.githubusercontent.com/92488787/186541018-968f620c-9b64-4c23-bf04-012825761c67.png)
 
-![Screen Shot 2022-08-24 at 4 26 23 PM](https://user-images.githubusercontent.com/92488787/186540862-ff9ecb77-468a-41a2-bf1f-a3ddc9c8a3d1.png)
-
-![Screen Shot 2022-08-24 at 4 27 55 PM](https://user-images.githubusercontent.com/92488787/186540942-7de7996d-6313-4f30-b65a-5597bc319bc3.png)
+![Screen Shot 2022-08-24 at 4 28 44 PM](https://user-images.githubusercontent.com/92488787/186541023-4485e686-9185-4b62-a107-8e52882ec855.png)
