@@ -3,7 +3,7 @@
 Name: Tyler Coyne  
 Discord Handle: tcoyne#4231
 
-**1. Because we had a LOT to talk about during this Chapter, I want you to do the following:
+**1. Because we had a LOT to talk about during this Chapter, I want you to do the following:**
 
 **Take our NFT contract so far and add comments to every single resource or function explaining what it's doing in your own words. Something like this:**
 
