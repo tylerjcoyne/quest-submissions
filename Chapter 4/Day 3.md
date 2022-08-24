@@ -5,8 +5,8 @@ Discord Handle: tcoyne#4231
 
 **1. Why did we add a Collection to this contract? List the two main reasons.**
 
-- 1. One reason is to help make accessing the NFT storage more efficient - if we **didn't** use a Collection, we would be stuck remembering new Storage paths every time that we wanted to view a new NFT in our accounts. With a collection, we can store multiple NFTs at the same storage path.
-- 2. The other main reason is that by using a Collection, we allow others to "deposit" NFTs to our account. If we store all of our NFTs in our account storage, the public wouldn't be able to access it, so we would never be able to receive NFTs.
+1. One reason is to help make accessing the NFT storage more efficient - if we **didn't** use a Collection, we would be stuck remembering new Storage paths every time that we wanted to view a new NFT in our accounts. With a collection, we can store multiple NFTs at the same storage path.
+2. The other main reason is that by using a Collection, we allow others to "deposit" NFTs to our account. If we store all of our NFTs in our account storage, the public wouldn't be able to access it, so we would never be able to receive NFTs.
 
 **2. What do you have to do if you have resources "nested" inside of another resource? ("Nested resources")**
 
