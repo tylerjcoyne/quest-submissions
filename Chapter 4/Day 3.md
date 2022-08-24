@@ -20,4 +20,4 @@ In many cases, probably not! For example, in the case of an Allowlist-gated Pre-
 
 **ii. Idea #2: If we want to read information about our NFTs inside our Collection, right now we have to take it out of the Collection to do so. Is this good?**
 
-No, this is not ideal - especially if we destroy the resource at the end of the code! A fix here would be to use a **reference** in-place of actually taking the NFT out of the Collection. This way we can still access information about the NFT, without involving any risk of loss.
+No, this is not ideal - especially if we destroy the resource at the end of the code! A fix here would be to use a **reference** in-place of the resource itself. This way we can still access public information about the NFT, without involving any risk of loss.
