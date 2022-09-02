@@ -13,6 +13,8 @@ Thanks so much for asking! There's this small chain of Taquerias in Boston where
 
 **3. Please fix this code (Hint: There are two things wrong):**
 
+_Are there only 2?! Maybe I went rogue._
+
 **Contract Interface:**
 - The Contract interface attempts to define a Resource interface & a Resource that **uses** that interface, but it's currently missing that implementation. It should be updated to the below.
 
