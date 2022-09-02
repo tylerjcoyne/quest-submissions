@@ -15,13 +15,15 @@ Force casting allows us to "down-cast" the type of a variable. For example, if w
 
 **You will have to write all the transactions to set up the accounts, mint the NFTs, and then the scripts to read the NFT's metadata. We have done most of this in the chapters up to this point, so you can look for help there :)**
 
-1. Make CryptoPoops' Metadata publicly-accessible.
+1. Deploy adjusted the NFTStandard Contract Interface & CryptoPoops Contract
 
+![Screen Shot 2022-09-02 at 4 26 24 PM](https://user-images.githubusercontent.com/92488787/188245938-4eefa123-b742-44ff-b488-3342f7240522.png)
+![Screen Shot 2022-09-02 at 4 26 24 PM](https://user-images.githubusercontent.com/92488787/188245941-4140e6e0-e84c-4be8-a8bc-5a9e05700304.png)
+![Screen Shot 2022-09-02 at 4 26 31 PM](https://user-images.githubusercontent.com/92488787/188245946-9e076d1c-6252-48f4-bed3-fded10993a48.png)
 
+2. Create CryptoPoops Collection
 
-2. Deploy the NFTStandard Contract Interface & CryptoPoops Contract
-
-
+![Screen Shot 2022-09-02 at 4 25 23 PM](https://user-images.githubusercontent.com/92488787/188245903-344e7556-94ed-4093-a2d2-a90365bb8af2.png)
 
 3. Set up the Accounts
 
