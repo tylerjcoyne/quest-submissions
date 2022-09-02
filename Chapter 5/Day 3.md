@@ -21,18 +21,15 @@ Force casting allows us to "down-cast" the type of a variable. For example, if w
 ![Screen Shot 2022-09-02 at 4 26 24 PM](https://user-images.githubusercontent.com/92488787/188245938-4eefa123-b742-44ff-b488-3342f7240522.png)
 ![Screen Shot 2022-09-02 at 4 26 31 PM](https://user-images.githubusercontent.com/92488787/188245946-9e076d1c-6252-48f4-bed3-fded10993a48.png)
 
-2. Create CryptoPoops Collection
+2. Set up the CryptoPoops Collection
 
 ![Screen Shot 2022-09-02 at 4 25 23 PM](https://user-images.githubusercontent.com/92488787/188245903-344e7556-94ed-4093-a2d2-a90365bb8af2.png)
 
-3. Set up the Accounts
+
+3. Mint an NFT & Deposit It to an Account
 
 
 
-4. Mint an NFT
-
-
-
-5. Read the NFT's Metadata
+4. Read the NFT's Metadata
 
 
