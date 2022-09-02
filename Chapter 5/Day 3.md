@@ -17,7 +17,7 @@ Force casting allows us to "down-cast" the type of a variable. For example, if w
 
 1. Deploy adjusted the NFTStandard Contract Interface & CryptoPoops Contract
 
-![Screen Shot 2022-09-02 at 4 26 24 PM](https://user-images.githubusercontent.com/92488787/188245941-4140e6e0-e84c-4be8-a8bc-5a9e05700304.png)
+![Screen Shot 2022-09-02 at 4 26 17 PM](https://user-images.githubusercontent.com/92488787/188245994-dfd5c0ce-e549-49bc-8298-55973a201dae.png)
 ![Screen Shot 2022-09-02 at 4 26 24 PM](https://user-images.githubusercontent.com/92488787/188245938-4eefa123-b742-44ff-b488-3342f7240522.png)
 ![Screen Shot 2022-09-02 at 4 26 31 PM](https://user-images.githubusercontent.com/92488787/188245946-9e076d1c-6252-48f4-bed3-fded10993a48.png)
 
